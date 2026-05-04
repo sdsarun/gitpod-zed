@@ -1,0 +1,7 @@
+id = "gitpod-dark"
+name = "Gitpod Dark"
+version = "0.0.1"
+schema_version = 1
+authors = ["sD"]
+description = "Gitpod-inspired dark theme for Zed editor"
+repository = "https://github.com/sdsarun/gitpod-zed"
