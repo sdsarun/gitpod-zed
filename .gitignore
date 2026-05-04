@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.zed/
+.vscode/
+.idea/
+
+# Zed extension build artifacts
+target/
+*.wasm
