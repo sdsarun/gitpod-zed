@@ -1,5 +1,7 @@
 # Gitpod Dark — Zed Theme
 
+![preview](./assets/preview.png)
+
 A dark theme for [Zed](https://zed.dev) inspired by the Gitpod IDE aesthetic. Features a deep dark background with warm amber accents, full syntax highlighting, terminal ANSI colors, and complete UI coverage including git diff indicators and status colors.
 
 | Element | Color |
